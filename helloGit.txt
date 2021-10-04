@@ -20,3 +20,4 @@ master-branch
 hot-fix update
 hot-fix-branch
 merge master&hot-fix
+remote-update
